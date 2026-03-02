@@ -53,5 +53,7 @@ Run the Jupyter notebook Deep learning.ipynb.
 ## Acknowledgments
 Kaggle for the Chest X-Ray Images (Pneumonia) dataset
 
+---
+
 ## Author
 Alexios Papadopoulos - Master's Project
