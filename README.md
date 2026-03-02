@@ -1,5 +1,4 @@
-# Pneumonia-Detection
-Pneumonia Detection using Deep Learning
+# Pneumonia Detection using Deep Learning
 
 Introduction
 Pneumonia is a significant global health challenge, claiming a child's life every 39 seconds. It causes over 800,000 fatalities annually among children under five, surpassing deaths from HIV/AIDS, measles, and malaria combined. While chest X-rays are the standard diagnostic tool, accurate interpretation is difficult even for experts.
