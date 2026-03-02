@@ -60,4 +60,4 @@ Ensure you have your kaggle.json API key for data downloading.
 Run the Jupyter notebook Deep learning.ipynb.
 
 Author
-Your Name/GitHub Profile - Master's Project
+Alexios Papadopoulos - Master's Project
